@@ -1,0 +1,10 @@
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\bin\Debug\Бега таракашки.exe.config
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\bin\Debug\Бега таракашки.exe
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\bin\Debug\Бега таракашки.pdb
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\obj\Debug\Бега таракашки.csproj.AssemblyReference.cache
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\obj\Debug\Бега_таракашки.Form1.resources
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\obj\Debug\Бега_таракашки.Properties.Resources.resources
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\obj\Debug\Бега таракашки.csproj.GenerateResource.cache
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\obj\Debug\Бега таракашки.csproj.CoreCompileInputs.cache
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\obj\Debug\Бега таракашки.exe
+C:\Users\tankk\source\repos\Бега таракашки\Бега таракашки\obj\Debug\Бега таракашки.pdb
